@@ -1,14 +1,14 @@
 # main text of home
-name: Chayo
-bio: 'Mahasiswa Sistem Informasi, Fakultas Sains Dan Teknologi, UIN Sultan Syarif Kasim Riau'
+name: Niveditha Ram
+bio: 'Physics, Teaching, Engineering.'
 
 # twitter summary info
-description: A blog about Chayo Rona :)
+description: A blog about Physics and teaching science
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/IMG_20170927_211505_AO_HDR.jpg'
+picture: 'assets/images/profile.jpg'
 
 # url: http://artiannaswamy.com
 # your url: http://USERNAME.github.io
@@ -25,25 +25,25 @@ highlighter: rouge
 #disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
- facebook: ronafakhquilla
-# twitter: 
-# google: chayorona46@gmail.com
-instagram: chayorona
+# facebook: myfacebook
+twitter: NivedithaRam
+# google: mygoogle
+# instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: chayorona.github.io
+github: NivedithaRam
 # medium: medium
-email: chayo.rona.fakhquilla@uin-suska.ac.id
+email: niveditha.ramasubramanian@stonybrook.edu
 
 authors:
     NivedithaRam:
-        name: Chayo Rona Fakhquilla
-        bio: Mahasiswa Sistem Informasi, Fakultas Sains Dan Teknologi, UIN Sultan Syarif Kasim Riau
+        name: Niveditha Ram
+        bio: Physics, Reading, Teaching.
         external-image: false
-        picture: assets/images/chayo.jpg
-        Instagram: @chayorona
+        picture: assets/images/profile.jpg
+        twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
@@ -57,11 +57,11 @@ width: large
 
 # if you don't need projects, comment the *projects* configs below
 # projects: true
-# research: false
-# teaching: false
+research: true
+teaching: true
 # if you don't need about or blog, comment them out below
 about: true
-# blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
