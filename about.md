@@ -8,4 +8,4 @@ layout: page
  
  Sekarang adalah semester ke 7 dan saya telah mengambil beberpa konsentrasi di jurusan ini, saya sangat tertarik dengan Salah satu matakuliah yaitu Data Mining, saya menjadikan kajian ilmu tersebut sebagai bahan untuk pembuatan tugas Akhir saya.
  
- Sangat senang sekali bisa berbagi :)
+ Sangat senang sekali bisa berbagi :)  
